@@ -1,5 +1,5 @@
 {
-    "name": "hacoidev/ophim-crawler",
+    "name": "hoanganh/cc-crawler",
     "description": "ophim crawler",
     "type": "package",
     "require": {
@@ -14,8 +14,8 @@
     },
     "authors": [
         {
-            "name": "hacoidev",
-            "email": "hacoi.dev@gmail.com"
+            "name": "hoanganh",
+            "email": "admin@gmail.com"
         }
     ],
     "extra": {
